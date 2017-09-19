@@ -1,0 +1,28 @@
+{
+    "name": "abbreviate-arguments",
+    "version": "1.0.0",
+    "description": "Abbreviates arguments passed as an array or object",
+    "main": "index.js",
+    "scripts": {
+        "test": "jasmine"
+    },
+    "keywords": [
+        "abbreviate",
+        "abbreviate arguments"
+    ],
+    "author": "Git Faf <git.faf@gmail.com>",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gitfaf/abbreviate-arguments.git"
+    },
+    "bugs": {
+        "url": "https://github.com/gitfaf/abbreviate-arguments/issues"
+    },
+    "homepage": "https://github.com/gitfaf/abbreviate-arguments#readme",
+    "dependencies": {
+        "indices-for-same-value": "^5.0.0",
+        "keys-for-same-value": "^5.0.0",
+        "unique-values": "^1.0.0"
+    }
+}
