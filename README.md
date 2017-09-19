@@ -2,9 +2,7 @@
 
 Abbreviate arguments passed via an array or object.
 
-## Inspiration
-
-[isaacs/abbrev-js](https://github.com/isaacs/abbrev-js)
+Inspiration (or rather copied from) [isaacs/abbrev-js](https://github.com/isaacs/abbrev-js)
 
 ## License
 

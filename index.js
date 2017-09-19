@@ -1,7 +1,7 @@
 const utils = require('./utils')
 
 function abbreviateArguments() {
-    const list = utils.getUniqueArrayValues(Array.from(arguments).map(i => String(i))).sort()
+    const list = utils.getUniqueArrayValues(Array.from(arguments).map(i => String(i)))
     let abbreviations = {}
     let previous = ""
     for (let wordIndex in list) {
